@@ -25,6 +25,7 @@ The first task was to get a count of the number of employees who will be retirin
 ### Mentorship Eligibility
 
 - The fourth table has taken all the information gathered thus far and created a full list of current employees who are reaching retirement age and are thus eligible for the mentorship program.
+
 ![mentorship_eligibility](Resources/mentorship_eligibility.png)
 
 ## Summary
@@ -34,5 +35,5 @@ The first task was to get a count of the number of employees who will be retirin
 
 2. Are there enough qualified mentors?
     - When a count is done on the unique titles table by title. We have now a number of possible candidates who were born between 1952-1955. In this pool of possible mentor candidates, there are a large number of Seniors and Leaders. These are possible mentors the company can reach out to in order to help meet the need for the upcoming "silver tsunami." 
-    
+
     ![unique_titles_count](Resources/unique_titles_count.png)
